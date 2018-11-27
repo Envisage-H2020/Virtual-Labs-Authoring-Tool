@@ -12,29 +12,16 @@ v1.0 Production 9_2018
 
 ### Do you have a demo?
 
-Yes it is : http://digiart.mklab.iti.gr
+Yes it is : http://envisagelabs.iti.gr
 
-You will need the Firefox Web browser to access the tool. At least 2GBs of RAM should be available in your machine otherwise the models can not be loaded. 
+You will need the Firefox or Chrome Web browser to access the tool. At least 2GBs of RAM should be available in your machine otherwise the models can not be loaded. 
 
 It requires sign up and sign in.
 
-### Archaeologists: Do you have a video of the demo?
-
-Yes, it is: https://www.youtube.com/watch?v=BbBOKCBryvU&t=33s
-
-and the compiled game output in Unity3D: https://www.youtube.com/watch?v=qKPqvNrge9U
-
-### Instructions for archaeologists?
-
-You can advise the following document : https://www.dropbox.com/s/q0ak9asos7bjy85/DigiArtUsageScenarios.docx?dl=0
-
-If you want to make your own asset you can use the guidelines in this wiki : https://github.com/DigiArt-project/wordpressunity3deditor/wiki/3D-Models-specifications
 
 Let us know if you have any diffuculties or you found any bugs
 
 ### Instructions to make a new instance for the whole tool ###
-
-This section is for web admins that want to make a story telling engine in their own server. Below are the instructions. 
 
 You need to have a WordPress site (4.7 or later) and Unity3D should be installed according to the following instructions:
 
